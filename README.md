@@ -1,2 +1,1 @@
-# Click-Arbuz-Auto-Clicker
-Click-Arbuz-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
